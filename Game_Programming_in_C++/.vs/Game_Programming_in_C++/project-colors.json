@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbd7f2ef-0b1b-4e3e-84d3-8edf1f5802f2": {
+      "ProjectGuid": "bbd7f2ef-0b1b-4e3e-84d3-8edf1f5802f2",
+      "DisplayName": "Game_Programming_in_C++",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

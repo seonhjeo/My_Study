@@ -1,0 +1,5 @@
+15_Rates Of Change
+
+ - 변화율(Rates of Change)는 물체의 움직임 등에 유용하게 사용된다.
+ - 기울기는 y변화율 / x변화율이다. 곡선의 기울기는 x의 변화율을 0으로 수렴하게 하여 측정한다.
+ - 상세 내용 : https://m.blog.naver.com/PostView.nhn?blogId=haksengyo&logNo=221377285896&proxyReferer=https:%2F%2Fwww.google.com%2F

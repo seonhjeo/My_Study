@@ -1,0 +1,15 @@
+D:\Study\XProject\C#_HorseGame\Thread_02\bin\Debug\net6.0\Thread_02.exe
+D:\Study\XProject\C#_HorseGame\Thread_02\bin\Debug\net6.0\Thread_02.deps.json
+D:\Study\XProject\C#_HorseGame\Thread_02\bin\Debug\net6.0\Thread_02.runtimeconfig.json
+D:\Study\XProject\C#_HorseGame\Thread_02\bin\Debug\net6.0\Thread_02.dll
+D:\Study\XProject\C#_HorseGame\Thread_02\bin\Debug\net6.0\ref\Thread_02.dll
+D:\Study\XProject\C#_HorseGame\Thread_02\bin\Debug\net6.0\Thread_02.pdb
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.csproj.AssemblyReference.cache
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.AssemblyInfoInputs.cache
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.AssemblyInfo.cs
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.csproj.CoreCompileInputs.cache
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.dll
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\ref\Thread_02.dll
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.pdb
+D:\Study\XProject\C#_HorseGame\Thread_02\obj\Debug\net6.0\Thread_02.genruntimeconfig.cache

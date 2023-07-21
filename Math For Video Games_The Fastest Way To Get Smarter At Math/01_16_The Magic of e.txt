@@ -1,0 +1,5 @@
+16_The Magic of e
+
+ - 자연상수 e는 x축이 a, y축이 e^a인 그래프에서 어떠한 a가 와도 기울기가 항상 e^a인 상수이다.
+ - 자연상수는 2.718...로 시작되는 무한소수이다.
+ - 상세 내용 : https://angeloyeo.github.io/2019/09/04/natural_number_e.html

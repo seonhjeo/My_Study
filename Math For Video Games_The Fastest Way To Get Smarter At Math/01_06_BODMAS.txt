@@ -1,0 +1,11 @@
+ - 컴퓨터 내 연산의 규칙이다.
+ - BODMAS 혹은 PEMDAS로 축약되어 말한다.
+
+ - Brackets, Parentheses : 괄호 우선
+ - Orders, Exponents : 지수(제곱, 제곱근 등)
+ - Multiplication : 곱셈
+ - Division : 나눗셈
+ - Addition : 덧셈
+ - Substraction : 뺄셈
+
+ - 순으로 계산한다.

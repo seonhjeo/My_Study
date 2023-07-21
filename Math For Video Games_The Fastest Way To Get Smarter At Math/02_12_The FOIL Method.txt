@@ -1,0 +1,9 @@
+34_The FOIL Method
+
+ - 변형된 이차방정식인 'y = a(x - p)(y - q)'를 다시 기본형으로 되돌리는 방법이다.
+ - First, Outer, Inner, Last를 의미한다.
+	- First : x와 x끼리 곱하여 x^2가 된다.
+	- Outer : 앞의 x와 뒤의 -q를 곱하여 -qx가 된다.
+	- Inner : 앞의 -p와 뒤의 x를 곱하여 -px가 된다.
+	- Last : 앞의 -p와 뒤의 -q를 곱하여 pq가 된다.
+ - 위에서 구한 4개의 수들을 모두 더하여 'y = a(x^2 - (p + q)x + pq)'의 기본형으로 되돌릴 수 있다.

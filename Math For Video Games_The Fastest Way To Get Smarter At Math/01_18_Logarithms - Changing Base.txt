@@ -1,0 +1,4 @@
+18_Logarithms - Changing Base
+
+ - log_b(a) = log_x(a) / log_x(b)와 같다. ex) log_2(32) = log_10(32) / log_10(2)
+ - C#의 Mathf.Log함수는 두 가지 종류가 있는데, Mathf.Log(x)는 ln(x)이고, Mathf.log(x, b)는 log_b(x)이다.
